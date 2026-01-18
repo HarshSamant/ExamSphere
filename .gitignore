@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.env
+
+# Uploaded media (optional – keeps repo light)
+captured_Images/
+recorded_videos/
+
+
